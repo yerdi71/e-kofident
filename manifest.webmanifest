@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "e-Kofident",
+  "short_name": "e-Kofident",
+  "description": "Nieoficjalny, demonstracyjny prototyp e-Kofident.",
+  "lang": "pl-PL",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020813",
+  "theme_color": "#061a36",
+  "icons": [
+    { "src": "icons/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
